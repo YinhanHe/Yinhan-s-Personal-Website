@@ -1,7 +1,7 @@
 ---
 title: Yinhan He (贺胤涵)
 role: ""
-avatar_filename: https://ibb.co/yNdJ7vp
+avatar_filename: avatar.jpg
 bio: "My research interests include data mining, natural language processing and
   knowledge engineering. "
 superuser: true
