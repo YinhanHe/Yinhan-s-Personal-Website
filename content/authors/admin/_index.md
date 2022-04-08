@@ -6,7 +6,8 @@ bio: "My research interests include data mining, natural language processing and
   knowledge engineering. "
 interests:
   - data mining
-  - natural language processing and knowledge engineering
+  - natural language processing
+  - knowledge engineering
 social:
   - icon: envelope
     icon_pack: fas
