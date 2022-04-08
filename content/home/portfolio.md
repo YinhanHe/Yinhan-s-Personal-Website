@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: 测试一下
 headless: true
-weight: 10
+weight: 0
 title: ""
 subtitle: ""
 content:
@@ -18,7 +18,7 @@ content:
     - name: NLP
       tag: NLP
 design:
-  columns: "2"
+  columns: ""
   view: masonry
   flip_alt_rows: true
   background: {}
