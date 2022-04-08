@@ -1,6 +1,7 @@
 ---
 title: Yinhan He (贺胤涵)
 role: ""
+avatar_filename: zipai.jpg
 bio: "My research interests include data mining, natural language processing and
   knowledge engineering. "
 superuser: true
