@@ -1,9 +1,12 @@
 ---
 title: Yinhan He (贺胤涵)
-role: ""
+role: 4th year undergradute student
 avatar_filename: avatar.jpg
 bio: "My research interests include data mining, natural language processing and
   knowledge engineering. "
+interests:
+  - data mining
+  - natural language processing and knowledge engineering
 social:
   - icon: envelope
     icon_pack: fas
