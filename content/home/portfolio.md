@@ -18,7 +18,7 @@ content:
     - name: NLP
       tag: NLP
 design:
-  columns: ""
+  columns: "1"
   view: masonry
   flip_alt_rows: true
   background: {}
