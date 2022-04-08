@@ -27,12 +27,12 @@ organizations:
     url: http://english.ia.cas.cn/
 education:
   courses:
-    - course: Algprithm
-      institution: Stanford University
-      year: 1
-    - course: Stochastic Process
-      institution: HSE University
-      year: 1
+    - course: Junior & Senior High
+      institution: Xi'an Tieyi High School
+      year: 6
+    - course: B.S.
+      institution: University of Chinese Academy of Sciences
+      year: 4
 email: heyinhan18@gmail.com
 superuser: true
 status:
