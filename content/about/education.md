@@ -29,7 +29,7 @@ experience:
     company_logo: org-x
     location: Beijing, China
     date_start: '2018-09-01'
-    date_end: '2022-6-10'
+    date_end: '2022-06-10'
     description: One of best undergraduate programs in China.
 
 design:
