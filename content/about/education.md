@@ -26,7 +26,7 @@ experience:
   - title: B.S. mathematics and applied mathematics
     company: University of Chinese Academy of Sciences
     company_url: ''
-    company_logo: org-x
+    company_logo: ucas_logo
     location: Beijing, China
     date_start: '2018-09-01'
     date_end: '2022-06-10'
