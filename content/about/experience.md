@@ -25,7 +25,7 @@ experience:
   - title: Intern
     company: Institute of Automation(CAS)
     company_url: ''
-    company_logo: org-gc
+    company_logo: casia_logo
     location: Beijing
     date_start: '2021-07-15'
     date_end: ''
