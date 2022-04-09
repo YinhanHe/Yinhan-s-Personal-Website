@@ -31,6 +31,14 @@ experience:
     date_end: ''
     description: doing research
 
+  - title: Visit Student
+    company: National University of Singapore
+    company_url: ''
+    company_logo: nus_logo
+    location: Singapore
+    date_start: '2021-01-14'
+    date_end: '2021-06-03'
+    description: finished some stat&CS modules.Started my journey (Thai I module) exploring Thai language.
 
 design:
   columns: '1'
