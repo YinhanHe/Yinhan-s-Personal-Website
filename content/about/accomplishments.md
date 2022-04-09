@@ -31,7 +31,7 @@ item:
     organization_url: https://www.coursera.org
     title: Algorithm
     url: ''
-   - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
     description: ''
