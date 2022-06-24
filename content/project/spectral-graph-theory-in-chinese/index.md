@@ -12,3 +12,5 @@ image:
   preview_only: false
   alt_text: "Textbook Link: https://mathweb.ucsd.edu/~fan/research/revised.html"
 ---
+Videos I uploaded to Bilibili to introduce and discuss Spectral Graph theory, textbook is written by Fan Chung.
+Textbook Link: https://mathweb.ucsd.edu/~fan/research/revised.html
