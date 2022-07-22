@@ -42,6 +42,6 @@ superuser: true
 status:
   icon: ☕️
 ---
-Duber He(贺胤涵) is an undergraduate major in mathematics and applied mathematics from University of Chinese Academy of Sciences(UCAS), Beijing. He's currently doing his graduate design supervised by Prof. Tiande Guo from college of mathematics sciences(UCAS). He would persue his master degree(2022-2025) in Automation Institute(CAS), supervised by Prof.Zhengya Sun and Prof.Wensheng Zhang. 
+Duber He(贺胤涵) is an undergraduate major in mathematics and applied mathematics from University of Chinese Academy of Sciences(UCAS), Beijing. His graduate design is supervised by Prof. Tiande Guo from college of mathematics sciences(UCAS). 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
