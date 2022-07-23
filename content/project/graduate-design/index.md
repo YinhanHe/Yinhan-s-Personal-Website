@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**"Excellent Graduate Design"** in College of Mathematical Science
+**"Excellent Graduate Design"** (10%) in College of Mathematical Science
