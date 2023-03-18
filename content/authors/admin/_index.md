@@ -24,12 +24,12 @@ social:
     display:
       header: true
 organizations:
-  - name: University of Chinese Academy of Sciences
-    url: https://english.ucas.ac.cn/
-  - name: Institute of Automation(CAS)
-    url: http://english.ia.cas.cn/
   - name: University of Virginia
     url: virginia.edu
+  - name: Institute of Automation(CAS)
+    url: http://english.ia.cas.cn/
+  - name: University of Chinese Academy of Sciences
+    url: https://english.ucas.ac.cn/
 education:
   courses:
     - course: Junior & Senior High
