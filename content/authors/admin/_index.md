@@ -1,13 +1,12 @@
 ---
 title: Yinhan He (贺胤涵)
-role: 4th year undergradute student(math)
+role: 1st year ph.D. student in University of Virginia
 avatar_filename: avatar.jpg
-bio: "My research interests include data mining, natural language processing and
-  knowledge engineering. "
+bio: My research interests include algebraic graph theory, graph machine
+  learning and data mining
 interests:
-  - data mining
-  - natural language processing
-  - knowledge engineering
+  - algebaic graph theory
+  - graph machine learning and data mining
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,6 +28,8 @@ organizations:
     url: https://english.ucas.ac.cn/
   - name: Institute of Automation(CAS)
     url: http://english.ia.cas.cn/
+  - name: University of Virginia
+    url: virginia.edu
 education:
   courses:
     - course: Junior & Senior High
@@ -37,11 +38,11 @@ education:
     - course: B.S.
       institution: University of Chinese Academy of Sciences
       year: 4
-email: heyinhan18@gmail.com
+email: nee7ne@virginia.edu
 superuser: true
 status:
   icon: ☕️
 ---
-Duber He(贺胤涵) is an undergraduate major in mathematics and applied mathematics from University of Chinese Academy of Sciences(UCAS), Beijing. His graduate design is supervised by Prof. Tiande Guo from college of mathematics sciences(UCAS). 
+Duber He(贺胤涵) is a first year ph.D. student studying algebaic graph theory, graph machine learning and data mining in Univeristy of Virginia supervised by Professor Jundong Li. Prior to that, he did his undergraduate majoring in mathematics and applied mathematics from University of Chinese Academy of Sciences(UCAS), Beijing. His graduate design is supervised by Prof. Tiande Guo from college of mathematics sciences(UCAS).
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
